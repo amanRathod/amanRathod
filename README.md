@@ -64,6 +64,8 @@
 
 </details>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanRathod&layout=compact)](https://github.com/amanRathod/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/amanRathod/github-readme-stats)
 
 [twitter]: https://twitter.com/amanrathod07
 [instagram]: https://instagram.com/aman_rathod_007
