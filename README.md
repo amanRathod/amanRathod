@@ -63,7 +63,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Aman's GitHub Stats" src="https://github-readme-stats.amanRathod.vercel.app/api?username=amanRathod&show_icons=true&hide_border=true" />
+  <img align="left" alt="amanRathod's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=amanRathod&show_icons=true&hide_border=true" />
 
 </details>
 
