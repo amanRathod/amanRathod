@@ -45,3 +45,12 @@
 
 <br />
 <br />
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [How to Hide, Recover and Delete Tkinter Widgets?](https://www.geeksforgeeks.org/how-to-hide-recover-and-delete-tkinter-widgets/)
+- [Python - Convert HTML Characters To Strings](https://www.geeksforgeeks.org/python-convert-html-characters-to-strings/)
+- [Java Program to Shuffle Vector Elements](https://www.geeksforgeeks.org/java-program-to-shuffle-vector-elements/)
+- [Python - List Files in a Directory](https://www.geeksforgeeks.org/python-list-files-in-a-directory/)
+- [How to Print all Mappings of the LinkedHashMap in Java?](https://www.geeksforgeeks.org/how-to-print-all-mappings-of-the-linkedhashmap-in-java/)
