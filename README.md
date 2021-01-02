@@ -1,5 +1,5 @@
 ### Hi there, I'm Aman Rathod
-
+![](https://komarev.com/ghpvc/?username=amanRathod)
 ### I'm a  Developer, Blogger and Youtuber(In Few Days 🤣)
 
 ### 🌱 I’m currently learning everything.
