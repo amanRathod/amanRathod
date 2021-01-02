@@ -14,11 +14,17 @@
 
 ### Connect with me:
 
-<img align="left" alt=" Twitter" width="35px" src="https://img.icons8.com/bubbles/100/000000/twitter.png" />
-<img align="left" alt=" LinkedIn" width="35px" src="https://img.icons8.com/bubbles/100/000000/linkedin.png" />
-<img align="left" alt=" Instagram" width="35px" src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" />
+
+[<img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt=" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+
+<!----[<img align="left" alt=" Twitter" width="35px" src="https://img.icons8.com/bubbles/100/000000/twitter.png" />][twitter]
+[<img align="left" alt=" LinkedIn" width="35px" src="https://img.icons8.com/bubbles/100/000000/linkedin.png" />][linkedIn]
+[<img align="left" alt=" Instagram" width="35px" src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" />][instagram]
+<br />---->
 
 
 ### Languages and Tools:
@@ -54,3 +60,15 @@
 - [Java Program to Shuffle Vector Elements](https://www.geeksforgeeks.org/java-program-to-shuffle-vector-elements/)
 - [Python - List Files in a Directory](https://www.geeksforgeeks.org/python-list-files-in-a-directory/)
 - [How to Print all Mappings of the LinkedHashMap in Java?](https://www.geeksforgeeks.org/how-to-print-all-mappings-of-the-linkedhashmap-in-java/)
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Aman's GitHub Stats" src="https://github-readme-stats.amanRathod.vercel.app/api?username=amanRathod&show_icons=true&hide_border=true" />
+
+</details>
+
+
+[twitter]: https://twitter.com/amanrathod07
+[instagram]: https://instagram.com/aman_rathod_007
+[linkedin]: https://linkedin.com/in/aman-kumar-singh-24b054195
