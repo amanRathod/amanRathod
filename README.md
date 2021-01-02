@@ -15,16 +15,15 @@
 ### Connect with me:
 
 
-[<img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+<!---[<img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt=" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<br /> -->
 
-<br />
-
-<!----[<img align="left" alt=" Twitter" width="35px" src="https://img.icons8.com/bubbles/100/000000/twitter.png" />][twitter]
+[<img align="left" alt=" Twitter" width="35px" src="https://img.icons8.com/bubbles/100/000000/twitter.png" />][twitter]
 [<img align="left" alt=" LinkedIn" width="35px" src="https://img.icons8.com/bubbles/100/000000/linkedin.png" />][linkedIn]
 [<img align="left" alt=" Instagram" width="35px" src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" />][instagram]
-<br />---->
+<br/>
 
 
 ### Languages and Tools:
