@@ -57,16 +57,14 @@
 - [Python - List Files in a Directory](https://www.geeksforgeeks.org/python-list-files-in-a-directory/)
 - [How to Print all Mappings of the LinkedHashMap in Java?](https://www.geeksforgeeks.org/how-to-print-all-mappings-of-the-linkedhashmap-in-java/)
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<a href="https://github.com/amanRathod/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amanRathod&show_icons=true&include_all_commits=true&theme=tokyonight" alt="amanRathod's github stats" />
+</a>
 
-  <img align="left" alt="amanRathod's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=amanRathod&show_icons=true&theme=tokyonight" />
+<a href="https://github.com/amanRathod/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanRathod&layout=compact&theme=material-palenight" />
+</a>
 
-</details>
-
-
-<!---[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/amanRathod/github-readme-stats)--->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanRathod&layout=compact)](https://github.com/amanRathod/github-readme-stats)
 
 [twitter]: https://twitter.com/amanrathod07
 [instagram]: https://instagram.com/aman_rathod_007
