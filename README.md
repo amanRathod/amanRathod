@@ -1,7 +1,7 @@
 ### <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2>
 <h1>I'm Aman Rathod</h1>
 ![](https://komarev.com/ghpvc/?username=amanRathod)
-### I'm a  Developer, Blogger and Youtuber(In Few Days 🤣)
+<h2>I'm a  Developer and Technical Writer</h2>
 
 ### 🌱 I’m currently learning everything.
 ### 👯 I’m looking to collaborate with other content creators
