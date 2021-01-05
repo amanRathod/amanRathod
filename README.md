@@ -1,5 +1,5 @@
 ### <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2>
-### <h1>I'm Aman Rathod</h1> ![Visitor Count](https://profile-counter.glitch.me/{amanRathod}/count.svg)
+### <h1>I'm Aman Rathod</h1> 
 <!---![](https://komarev.com/ghpvc/?username=amanRathod)--->
 
 <h2>I'm a  Developer and Technical Writer</h2>
@@ -59,6 +59,8 @@
 - [Python - List Files in a Directory](https://www.geeksforgeeks.org/python-list-files-in-a-directory/)
 - [How to Print all Mappings of the LinkedHashMap in Java?](https://www.geeksforgeeks.org/how-to-print-all-mappings-of-the-linkedhashmap-in-java/)
 
+ <a>![Visitor Count](https://profile-counter.glitch.me/{amanRathod}/count.svg)</a>
+ 
 <a href="https://github.com/amanRathod/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=amanRathod&show_icons=true&include_all_commits=true&theme=tokyonight" alt="amanRathod's github stats" />
 </a>
