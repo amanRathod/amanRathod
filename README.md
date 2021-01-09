@@ -55,7 +55,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [How to Hide, Recover and Delete Tkinter Widgets?](https://www.geeksforgeeks.org/how-to-hide-recover-and-delete-tkinter-widgets/)
 - [Python - Convert HTML Characters To Strings](https://www.geeksforgeeks.org/python-convert-html-characters-to-strings/)
-- [Java Program to Shuffle Vector Elements](https://www.geeksforgeeks.org/java-program-to-shuffle-vector-elements/)
+<!---- [Java Program to Shuffle Vector Elements](https://www.geeksforgeeks.org/java-program-to-shuffle-vector-elements/)--->
 - [Python - List Files in a Directory](https://www.geeksforgeeks.org/python-list-files-in-a-directory/)
 - [Java Program to Implement Pollard Rho Algorithm?](https://www.geeksforgeeks.org/java-program-to-implement-pollard-rho-algorithm/)
 
