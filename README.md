@@ -7,7 +7,9 @@
   
 A 20Y/O Web developer🎯 from India. I'm passionate about Full-Stack Web Development.:bar_chart:. I like automating things, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :new: Innovation and Automation :robot:, and ✍️ Technical Content Writer. 
 <!---![](https://komarev.com/ghpvc/?username=amanRathod)--->
-
+![age](https://img.shields.io/badge/age-20-blue)
+![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
+![living](https://img.shields.io/badge/living-Patna-3c9)
 ### 🌱 I’m currently learning everything.
 ### 👯 I’m looking to collaborate with other content creators
 ### 🥅 2021 Goals: Contribute more to Open Source projects and Reach Candidate Master.
