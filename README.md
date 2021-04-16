@@ -60,9 +60,10 @@ A 20Y/O Web developer🎯 from India. I'm passionate about Full-Stack Web Develo
 
 <!-- BLOG-POST-LIST:START -->
 - [How to Hide, Recover and Delete Tkinter Widgets?](https://www.geeksforgeeks.org/how-to-hide-recover-and-delete-tkinter-widgets/)
-- [Python - Convert HTML Characters To Strings](https://www.geeksforgeeks.org/python-convert-html-characters-to-strings/)
+- [How to preload the video when the page loads in HTML5 ?](https://www.geeksforgeeks.org/how-to-preload-the-video-when-the-page-loads-in-html5/)
 - [Java Program to Implement Pollard Rho Algorithm](https://www.geeksforgeeks.org/java-program-to-implement-pollard-rho-algorithm/)
-- [Class Level Lock in Java](https://www.geeksforgeeks.org/class-level-lock-in-java/)
+- [What is the best way to add an event in JavaScript ?
+](https://www.geeksforgeeks.org/what-is-the-best-way-to-add-an-event-in-javascript/)
 - [How to specify the type of button using HTML5 ?](https://www.geeksforgeeks.org/how-to-specify-the-type-of-button-using-html5/)
 
  <a>![Visitor Count](https://profile-counter.glitch.me/{amanRathod}/count.svg)</a>
