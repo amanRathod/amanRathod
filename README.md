@@ -12,8 +12,8 @@ A 20Y/O Web developer🎯 from India. I'm passionate about Full-Stack Web Develo
 ![living](https://img.shields.io/badge/living-Patna-3c9)
 ### 🌱 I’m currently learning everything.
 ### 👯 I’m looking to collaborate with other content creators
-### 🥅 2021 Goals: Contribute more to Open Source projects and Reach Candidate Master.
-### ⚡ Fun fact: I love to cook and Write Blogs.
+<!-- ### 🥅 2021 Goals: Contribute more to Open Source projects and Reach Candidate Master.
+### ⚡ Fun fact: I love to cook and Write Blogs. -->
 
 ### Spotify Playing 🎧
 
