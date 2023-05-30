@@ -1,82 +1,34 @@
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-### <h2  align="center"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2>
-### <h1 align="center">I'm Aman Rathod</h1> 
+<h1 align="center">Hi 👋, I'm Aman Rathod</h1>
+<h3 align="center">A passionate full-stack developer from India</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanrathod" alt="amanrathod" /></a> </p>
 
-<h3 align="center">I'm a Web Developer from India ❤</h3>
-  
-A 20Y/O Web developer🎯 from India. I'm passionate about Full-Stack Web Development.:bar_chart:. I like automating things, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :new: Innovation and Automation :robot:, and ✍️ Technical Content Writer. 
-<!---![](https://komarev.com/ghpvc/?username=amanRathod)--->
-![age](https://img.shields.io/badge/age-20-blue)
-![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
-![living](https://img.shields.io/badge/living-Patna-3c9)
-### 🌱 I’m currently learning everything.
-### 👯 I’m looking to collaborate with other content creators
-<!-- ### 🥅 2021 Goals: Contribute more to Open Source projects and Reach Candidate Master.
-### ⚡ Fun fact: I love to cook and Write Blogs. -->
+- 🔭 I’m currently working on [Shopzen](https://github.com/amanRathod/ShopZen-CRM)
 
-### Spotify Playing 🎧
+- 🌱 I’m currently learning **Spring boot**
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/31vmbtf64subr7o2aaedzjvxcbvm)
+- 👨‍💻 All of my projects are available at [https://amanrathod.pro/](https://amanrathod.pro/)
 
+- 💬 Ask me about **React, Node, Spring**
 
-### Connect with me:
+- 📫 How to reach me **me@amanrathod.pro**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1yhCd814e2mzysLtYNjOxhYGe4KPnaQLf/view?usp=share_link](https://drive.google.com/file/d/1yhCd814e2mzysLtYNjOxhYGe4KPnaQLf/view?usp=share_link)
 
-<!---[<img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt=" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<br /> -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/amanrathodpro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amanrathodpro" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/amanrathodpro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amanrathodpro" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/12463117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12463117" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/amanrathodpro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amanrathodpro" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/aksrathod07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aksrathod07" height="30" width="40" /></a>
+</p>
 
-[<img align="left" alt=" Twitter" width="35px" src="https://img.icons8.com/bubbles/100/000000/twitter.png" />][twitter]
-[<img align="left" alt=" LinkedIn" width="35px" src="https://img.icons8.com/bubbles/100/000000/linkedin.png" />][linkedIn]
-[<img align="left" alt=" Instagram" width="35px" src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" />][instagram]
-<br/>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanrathod&show_icons=true&locale=en&layout=compact" alt="amanrathod" /></p>
 
-### Languages and Tools:
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanrathod&show_icons=true&locale=en" alt="amanrathod" /></p>
 
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<!---<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> 
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />--->
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-
-<br />
-<br />
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How to Hide, Recover and Delete Tkinter Widgets?](https://www.geeksforgeeks.org/how-to-hide-recover-and-delete-tkinter-widgets/)
-- [How to preload the video when the page loads in HTML5 ?](https://www.geeksforgeeks.org/how-to-preload-the-video-when-the-page-loads-in-html5/)
-- [Java Program to Implement Pollard Rho Algorithm](https://www.geeksforgeeks.org/java-program-to-implement-pollard-rho-algorithm/)
-- [What is the best way to add an event in JavaScript ?
-](https://www.geeksforgeeks.org/what-is-the-best-way-to-add-an-event-in-javascript/)
-- [How to specify the type of button using HTML5 ?](https://www.geeksforgeeks.org/how-to-specify-the-type-of-button-using-html5/)
-
- <a>![Visitor Count](https://profile-counter.glitch.me/{amanRathod}/count.svg)</a>
- 
-<a href="https://github.com/amanRathod/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amanRathod&show_icons=true&include_all_commits=true&theme=tokyonight" alt="amanRathod's github stats" />
-</a>
-
-<a href="https://github.com/amanRathod/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanRathod&layout=compact&theme=material-palenight" />
-</a>
-
-### ![](https://raw.githubusercontent.com/Subhampreet/Subhampreet/master/media/footer.png)
-[twitter]: https://twitter.com/amanrathod07
-[instagram]: https://instagram.com/aman_rathod_007
-[linkedin]: https://linkedin.com/in/aman-kumar-singh-24b054195
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanrathod&" alt="amanrathod" /></p>
